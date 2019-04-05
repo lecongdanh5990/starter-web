@@ -1,7 +1,7 @@
-# Starter Web Repo
+#my name is Le Cong Danh
 
-This repository is for showing how Git and GitHub work
+##I will become a master in PHP and Laravel 
 
-## Purpose
+###I will get more and more money for my family
 
-Sample website with plenty of files for demos
+####I will buy some car in the near future
